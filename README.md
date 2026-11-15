@@ -14,4 +14,3 @@ A portfolio of the projects I've designed, built, and run on my homelab — span
 - [Inference](projects/inference/) — local LLM inference (llama-server + GPU)
 - [Ultron](projects/ultron/) — AI assistant that runs the homelab
 - [Omarchy](projects/omarchy/) — custom Linux desktop
-- [Monitoring](projects/monitoring/) — Prometheus and Grafana observability

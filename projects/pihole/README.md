@@ -69,5 +69,4 @@ The hard-won bits from running it in production:
 - [OpenWrt](../openwrt/README.md) — the router that hands out Pi-hole as the network DNS.
 - [Wazuh SIEM](../wazuh/README.md) — receives Pi-hole's DNS telemetry.
 - [Proxmox](../proxmox/README.md) — where the DNS box runs.
-- [Monitoring](../monitoring/README.md) — DNS health is part of the lab's monitoring.
 - [← Back to the project index](../../README.md)
